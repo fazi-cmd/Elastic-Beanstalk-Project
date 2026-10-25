@@ -53,23 +53,42 @@ Here is a visual walkthrough of my learning and deployment process:
 
 ### IAM & Security Configuration
 *Setting up the necessary roles for the Elastic Beanstalk environment and EC2 instances.*
-![IAM Roles Setup](./screenshots/IAM_Roles.png) 
+
 
 ### Deployment Modes
 *Exploring the Standard vs. Cluster deployment options in the new AWS Console.*
-![Deployment Modes Standard](./screenshots/Deployment_Standard.png)
-![Deployment Modes Cluster](./screenshots/Deployment_Cluster.png)
 
 ### Environment Overview (AWS Console)
 *Successfully deployed and healthy environment showing the platform and application details.*
-![Environment Dashboard](./screenshots/Environment_Dashboard.png)
 
 ### CLI Deployment & Status
 *Using the AWS CLI (EB CLI) to initialize, create, and monitor the environment, proving my comfort with terminal-based cloud management.*
-![CLI Deployment 1](./screenshots/CLI_Deployment_1.png)
-![CLI Deployment 2](./screenshots/CLI_Status.png)
 
----
+
+<img width="1920" height="911" alt="Screenshot from 2026-10-23 21-27-49" src="https://github.com/user-attachments/assets/80fce638-074e-4958-b591-4361a1507c29" />
+
+
+<img width="1920" height="911" alt="Screenshot from 2026-10-23 21-28-47" src="https://github.com/user-attachments/assets/2e0a37f1-110f-4adf-a729-2ae45cfee949" />
+
+
+
+<img width="1920" height="911" alt="Screenshot from 2026-10-23 21-28-57" src="https://github.com/user-attachments/assets/da5e33f4-fdba-4836-8b7a-53e05f812f02" />
+
+
+
+
+<img width="1920" height="911" alt="Screenshot from 2026-10-23 21-49-02" src="https://github.com/user-attachments/assets/99084108-b8ce-4e3a-994d-18bba4c43d35" />
+
+
+
+<img width="1012" height="722" alt="Screenshot from 2026-10-23 22-11-20" src="https://github.com/user-attachments/assets/7a5d3fdb-db65-45bc-b897-b93eafe035f1" />
+
+
+
+
+<img width="1012" height="722" alt="Screenshot from 2026-10-23 22-13-33" src="https://github.com/user-attachments/assets/f38b64ba-7752-40fe-a960-0f671ed704f9" />
+
+
 
 ## 🔭 What's Next? (Continuous Learning)
 
